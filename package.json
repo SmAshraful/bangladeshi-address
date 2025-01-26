@@ -1,17 +1,17 @@
 {
-	"name": "thikana",
-	"version": "1.0.0",
-	"description": "An npm package to get Divisions, Districts and Thana/Upazilla of Bangladesh.",
-	"main": "index.js",
-	"scripts": {
-		"dev": "node index.js",
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/nazmuShakib/thikana.git"
-	},
-	"homepage": "https://github.com/nazmuShakib/thikana/blob/main/README.md",
-	"author": "nazmuShakib",
-	"license": "ISC"
+  "name": "bangladeshi-address",
+  "version": "1.0.0",
+  "description": "An npm package to get Divisions, Districts and Thana/Upazilla of Bangladesh.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sm-Ashraful/bangladeshi-address.git"
+  },
+  "homepage": "https://github.com/Sm-Ashraful/bangladeshi-address.git",
+  "author": "Sm Ashraful Islam",
+  "license": "ISC"
 }
